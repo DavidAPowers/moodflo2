@@ -1,0 +1,921 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"Cash",
+				"CashTransaction"
+			],
+			[
+				"curren",
+				"currency"
+			],
+			[
+				"tra",
+				"transaction_class"
+			],
+			[
+				"trans",
+				"transaction_class"
+			],
+			[
+				"find",
+				"findServers"
+			],
+			[
+				"start",
+				"start_balance"
+			],
+			[
+				"star",
+				"start_balance"
+			],
+			[
+				"field",
+				"fieldArr"
+			],
+			[
+				"server",
+				"serverDrop"
+			],
+			[
+				"shift",
+				"shiftdate"
+			],
+			[
+				"recaul",
+				"recalculateSupportTips"
+			],
+			[
+				"approve",
+				"approveTipsheets"
+			],
+			[
+				"findBy",
+				"findByDate"
+			],
+			[
+				"table",
+				"tableNum"
+			],
+			[
+				"set",
+				"setMessage"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"font-",
+				"font-style"
+			],
+			[
+				"total",
+				"totalHp"
+			],
+			[
+				"wk_2",
+				"wk2_ot_hours"
+			],
+			[
+				"wk2_",
+				"wk2_hours"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"curre",
+				"current_hp"
+			],
+			[
+				"tips",
+				"tips_paid"
+			],
+			[
+				"tran",
+				"transactions"
+			],
+			[
+				"end",
+				"end_balance"
+			],
+			[
+				"cash",
+				"cashStart"
+			],
+			[
+				"Transact",
+				"CashTransaction"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"ar",
+				"armor"
+			],
+			[
+				"bonus",
+				"bonusToStr"
+			],
+			[
+				"char",
+				"charisma_bonus"
+			],
+			[
+				"wisdo",
+				"wisdom_bonus"
+			],
+			[
+				"int",
+				"intelligence_bonus"
+			],
+			[
+				"cons",
+				"constitution_bonus"
+			],
+			[
+				"dex",
+				"dexterity_bonus"
+			],
+			[
+				"getD",
+				"getDwarf"
+			],
+			[
+				"brea",
+				"breath"
+			],
+			[
+				"rando",
+				"randomOccupation"
+			],
+			[
+				"consti",
+				"constitution_bonus"
+			],
+			[
+				"con",
+				"constitution_bonus"
+			],
+			[
+				"strengt",
+				"strength_bonus"
+			],
+			[
+				"random",
+				"randomAttributes"
+			],
+			[
+				"const",
+				"constitution"
+			],
+			[
+				"role",
+				"roleArray"
+			],
+			[
+				"tips_",
+				"tips_paid"
+			],
+			[
+				"wk2",
+				"wk2_hours"
+			],
+			[
+				"wk",
+				"wk1_rate"
+			],
+			[
+				"wk1",
+				"wk1_hours"
+			],
+			[
+				"wk1_ot",
+				"wk1_ot_hours"
+			],
+			[
+				"shi",
+				"shift"
+			],
+			[
+				"sales_",
+				"sales_cash"
+			],
+			[
+				"tip",
+				"tipsheet"
+			],
+			[
+				"tipped",
+				"tipped_user"
+			],
+			[
+				"time",
+				"timesheet"
+			],
+			[
+				"timesheet",
+				"timesheet_id"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"paid",
+				"paid_out"
+			],
+			[
+				"wh",
+				"when"
+			],
+			[
+				"type",
+				"typeof"
+			],
+			[
+				"tr",
+				"transaction"
+			],
+			[
+				"Tips",
+				"TIPS_OUT"
+			],
+			[
+				"TIP",
+				"TIPS_IN"
+			],
+			[
+				"sales",
+				"sales_cash"
+			],
+			[
+				"sales_c",
+				"sales_cash"
+			],
+			[
+				"sale",
+				"sales_credit"
+			],
+			[
+				"tips_from",
+				"tips_from_bar"
+			],
+			[
+				"Y",
+				"Y-m-d"
+			],
+			[
+				"post",
+				"postUrl"
+			],
+			[
+				"wage",
+				"wagetype"
+			],
+			[
+				"user",
+				"user_id"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"list-st",
+				"list-style"
+			],
+			[
+				"staff_",
+				"staff_member"
+			],
+			[
+				"staff",
+				"staff_member"
+			],
+			[
+				"paddin",
+				"padding-right"
+			],
+			[
+				"background-",
+				"background-repeat"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"body",
+				"body_class"
+			],
+			[
+				"str_r",
+				"str_replace"
+			],
+			[
+				"thi",
+				"this_page"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"is_n",
+				"is_null"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"list-sty",
+				"list-style-type"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"creat",
+				"createUrl"
+			],
+			[
+				"nomnom",
+				"nomnom-foundation"
+			],
+			[
+				"re",
+				"renderContent"
+			],
+			[
+				"json",
+				"json_decode"
+			],
+			[
+				"list-",
+				"list-style-type"
+			],
+			[
+				"js",
+				"json_decode"
+			],
+			[
+				"assert",
+				"assertEquals"
+			],
+			[
+				"up",
+				"updateTags"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"Blogpost",
+				"BlogpostValidation"
+			],
+			[
+				"prep",
+				"prepAndExec"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"json_",
+				"json_encode"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "moodflo/config.rb",
+			"settings":
+			{
+				"buffer_size": 930,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 288.0,
+		"last_filter": "html",
+		"selected_items":
+		[
+			[
+				"html",
+				"Export to HTML: Show Export Menu"
+			],
+			[
+				"export",
+				"Export to HTML: Show Export Menu"
+			],
+			[
+				"view",
+				"View In Browser"
+			],
+			[
+				"browser",
+				"View In Browser"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"expo",
+				"Export to HTML: Show Export Menu"
+			],
+			[
+				"exp",
+				"Export to HTML: Show Export Menu"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 153.0,
+		"history":
+		[
+			"import urllib.request,os; pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/repos/moodflo/moodflo",
+		"/C/repos/moodflo/moodflo/public",
+		"/C/repos/moodflo/moodflo/views",
+		"/C/wamp/www/frameworks/foundation5"
+	],
+	"file_history":
+	[
+		"/C/repos/moodflo/moodflo/public/stylesheets/app.css",
+		"/C/repos/moodflo/moodflo/bower.json",
+		"/C/repos/moodflo/moodflo/scss/_settings.scss",
+		"/C/repos/moodflo/moodflo/public/bower_components/jquery/dist/jquery.min.js",
+		"/C/repos/moodflo/moodflo/views/layout.hbs",
+		"/C/repos/moodflo/moodflo/views/index.hbs",
+		"/C/repos/moodflo/moodflo/routes/index.js",
+		"/C/repos/moodflo/moodflo/.bowerrc",
+		"/C/repos/moodflo/moodflo/public/scss/_settings.scss",
+		"/C/Users/david/Desktop/ant-survey.txt",
+		"/C/wamp/www/frameworks/foundation5/app.html",
+		"/C/repos/moodflo/moodflo/app.js",
+		"/C/repos/moodflo/moodflo/routes/users.js",
+		"/C/wamp/www/frameworks/foundation5/index.html",
+		"/C/wamp/www/frameworks/express-test/package.json",
+		"/C/Users/david/Desktop/Hackathon1.txt",
+		"/C/wamp/www/frameworks/express-test/app.js",
+		"/C/wamp/www/grunt-test/package.json",
+		"/C/Users/david/Desktop/TheMound",
+		"/C/Users/david/Desktop/cruiseship.txt",
+		"/C/wamp/www/restez/index.php",
+		"/C/wamp/www/restez/manual/users.html",
+		"/C/wamp/www/restez/templates/manager-menu.php",
+		"/C/wamp/www/restez/manual/index.html",
+		"/C/wamp/www/restez/templates/manager-cash.php",
+		"/C/wamp/www/restez/app/models/CashTransaction.php",
+		"/C/wamp/www/restez/app/tests/TestOfCashTranactions.php",
+		"/C/wamp/www/restez/templates/manager-cash-withdrawal.php",
+		"/C/Users/david/Desktop/codility/test1.js",
+		"/C/wamp/www/restez/app/tests/TestOfTimesheets.php",
+		"/C/wamp/www/restez/app/tests/TestOfDays.php",
+		"/C/Users/david/Desktop/magic-mushrooms.txt",
+		"/C/Users/david/Downloads/Adobe InDesign CC 2014 Multilanguage (64 bit-crack) [ChingLiu]/ChingLiu.Install.Notes.nfo",
+		"/C/wamp/www/restez/app/models/Day.php",
+		"/C/wamp/www/restez/app/helpers/CashBagHelper.php",
+		"/C/wamp/www/restez/templates/report.php",
+		"/C/wamp/www/restez/css/main.css",
+		"/C/wamp/www/restez/css/typography.css",
+		"/C/wamp/www/restez/app/models/DailyCashTransaction.php",
+		"/C/wamp/www/restez/app/helpers/PayrollHelper.php",
+		"/C/wamp/www/restez/app/helpers/DayHelper.php",
+		"/C/wamp/www/restez/app/models/Tipsheet.php",
+		"/C/wamp/www/restez/app/controllers/ShiftController.php",
+		"/C/wamp/www/restez/templates/users-list.php",
+		"/C/wamp/www/restez/templates/cash-count.php",
+		"/C/wamp/www/restez/lib/Utility.php",
+		"/C/wamp/www/restez/lib/Db.php",
+		"/C/wamp/www/restez/app/models/Shift.php",
+		"/C/wamp/www/restez/app/models/User.php",
+		"/C/wamp/www/restez/app/models/Roles.php",
+		"/C/wamp/www/restez/app/models/Wage.php",
+		"/C/wamp/www/restez/app/models/Barsheet.php",
+		"/C/wamp/www/restez/app/middleware/LogMiddleware.php",
+		"/C/wamp/www/restez/templates/manager-cash-adjustment.php",
+		"/C/wamp/www/restez/time-test.php",
+		"/C/wamp/www/restez/log_2015-10-31.txt",
+		"/C/wamp/www/restez/log_2015-10-30.txt",
+		"/C/wamp/www/restez/app/helpers/ShiftHelper.php",
+		"/C/wamp/www/restez/templates/manager-currentshift.php",
+		"/C/wamp/www/restez/app/helpers/FormHelper.php",
+		"/C/wamp/www/restez/app/helpers/CalendarHelper.php",
+		"/C/wamp/www/restez/templates/manager-servers.php",
+		"/C/wamp/www/restez/app/models/Payroll.php",
+		"/C/wamp/www/restez/templates/shared/header.php",
+		"/C/wamp/www/restez/app/helpers/Anteater.php",
+		"/C/wamp/www/restez/app/config/Settings.php",
+		"/C/wamp/www/restez/app/models/Timesheet.php",
+		"/C/wamp/www/restez/templates/manager-nontipped.php",
+		"/C/wamp/www/restez/templates/manager-tipped.php",
+		"/C/wamp/www/restez/templates/server-edit-tips.php",
+		"/C/wamp/www/restez/templates/staff-edit-hours.php",
+		"/C/wamp/www/restez/__notes__.txt",
+		"/C/wamp/www/restez/app/models/Models.php",
+		"/C/wamp/www/lumen/app/Http/routes.php",
+		"/C/wamp/www/restez/app/models/Formulas.php",
+		"/C/wamp/www/lumen/app/Http/Controllers/BookController.php",
+		"/C/wamp/www/lumen/app/Http/Controllers/ActController.php",
+		"/C/wamp/www/lumen/database/migrations/2015_10_23_202836_create_acts_table.php",
+		"/C/wamp/www/lumen/app/Act.php",
+		"/C/wamp/www/lumen/.env",
+		"/C/wamp/www/lumen/bootstrap/app.php",
+		"/C/wamp/www/lumen/app/Book.php",
+		"/C/wamp/www/lumen/database/migrations/2015_10_16_152524_create_books_table.php",
+		"/C/wamp/www/angular/index.html",
+		"/C/wamp/www/Models.php",
+		"/C/wamp/www/Helpers.php",
+		"/C/wamp/www/restez/templates/manager-bar.php",
+		"/C/Users/david/Google Drive/assets/restez/vendor/katzgrau/klogger/src/Logger.php",
+		"/C/wamp/www/restez/app/helpers/Helpers.php",
+		"/C/wamp/www/restez/app/helpers/TableHelper.php",
+		"/C/wamp/www/restez/app/helpers/WageHelper.php",
+		"/C/wamp/www/restez/composer.json",
+		"/C/wamp/www/restez/log/log_2015-09-25.txt",
+		"/C/wamp/www/restez/composer.lock",
+		"/C/wamp/www/restez/.htaccess",
+		"/C/wamp/www/restez/app/log/log_2015-09-25.txt",
+		"/C/wamp/www/restez/vendor/composer/autoload_real.php",
+		"/C/wamp/www/restez/vendor/autoload.php",
+		"/C/wamp/www/restez/models/Helpers.php",
+		"/C/wamp/www/restez/models/Models.php",
+		"/C/wamp/www/restez/models/Shift.php",
+		"/C/wamp/www/restez/models/CashTransaction.php",
+		"/C/Users/david/Downloads/deepprot2x.txt",
+		"/C/wamp/www/restez/models/DailyCashTransaction.php",
+		"/C/wamp/www/restez/models/Transaction.php",
+		"/C/wamp/www/restez/models/Payroll.php",
+		"/C/wamp/www/restez/models/Wage.php",
+		"/C/Users/david/Downloads/powersin_anttest.sql",
+		"/C/wamp/bin/php/php5.5.29/phpForApache.ini",
+		"/C/wamp/bin/php/php5.5.29/php.ini",
+		"/C/wamp/www/restez/tests/tests/acceptance/WelcomeCept.php",
+		"/C/wamp/www/restez/tests/codeception.yml",
+		"/C/wamp/www/restez/tests/tests/acceptance.suite.yml",
+		"/C/wamp/www/restez/tests/test.php",
+		"/C/wamp/www/restez/vendor/Logger.php",
+		"/C/wamp/bin/php/php5.4.16/php.ini",
+		"/C/wamp/www/restez/logs/logs.txt",
+		"/C/wamp/www/klogger/README.markdown",
+		"/C/wamp/www/klogger/tests/LoggerTest.php",
+		"/C/wamp/www/restez/info.php",
+		"/C/wamp/www/restez/templates/shared/clock.php",
+		"/C/wamp/www/restez/templates/login.php",
+		"/C/Users/david/Documents/GeoSonixDocuments/Projects/MyProjects/TestScript1.gxscript",
+		"/C/Users/david/Google Drive/apps/GeoSonixWin-0_932_beta/GeoSonixDocuments/Projects/Examples from Documentation/Message.gxscript",
+		"/C/Users/david/Google Drive/apps/GeoSonixWin-0_932_beta/GeoSonixDocuments/Projects/Examples from Documentation/New Score 1.gxscore",
+		"/C/wamp/www/antietam-live-site/models/Models.php",
+		"/C/wamp/www/antietam-live-site/models/Helpers.php",
+		"/C/wamp/www/lablord/index.html"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"C:\\wamp\\www\\antietam\\models",
+			"C:\\wamp\\www\\antietam",
+			"C:\\wamp\\www\\antietam\\templates",
+			"C:\\wamp\\www\\antietam",
+			"C:\\wamp\\www\\cpu-think-theme\\ice-cap",
+			"C:\\repos\\app\\application",
+			"C:\\repos\\app",
+			"C:\\repos\\app\\application",
+			"C:\\wamp\\www\\nomnom",
+			"C:\\repos\\app",
+			"C:\\repos\\app\\application"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"namespace",
+			");",
+			"dateForm",
+			"307",
+			"logger",
+			"staff",
+			"shifts/on",
+			"shift/current",
+			"CashT",
+			"1342",
+			"cancelUrl",
+			"link",
+			" )",
+			"str",
+			"cash",
+			"');\n",
+			"PowersInteractive",
+			">\n",
+			"Helpers",
+			"');\n",
+			"php5",
+			"');\n",
+			"psr",
+			"1",
+			" \n",
+			"\",\n",
+			"ArtistList",
+			"inventory()",
+			"weight",
+			"EncView",
+			");\n",
+			"th",
+			"Support",
+			"calculate",
+			"manager/servers",
+			"manager",
+			"print_r",
+			"From Bart",
+			"displayBarTips",
+			"dropdownHash",
+			"fetchAll",
+			"exists",
+			"manager/servers/",
+			"displayBar",
+			"net",
+			"\n	",
+			"exists",
+			"net",
+			"staff-edit-hours",
+			"staff/:",
+			"approved",
+			"tipped/",
+			",\n",
+			"tips",
+			"bar/",
+			"tips",
+			"getAdjTips",
+			"manager/servers",
+			"managers/servers",
+			"sales",
+			"\";\n",
+			"sales",
+			"adj_tips",
+			"tips_from_servers",
+			"bar/",
+			"($",
+			"adj",
+			"Bar",
+			"adj",
+			"adj_tips",
+			"tips_from_servers",
+			"getBarTipsPaid",
+			"adj_tips",
+			"adj_",
+			"		$",
+			"());",
+			"}\n",
+			"add",
+			"displayBarHours",
+			"displayServerTips",
+			"displayBarTip",
+			"displayBarTips",
+			"get",
+			"tipout",
+			"calculate",
+			"recalculate",
+			" \n",
+			"recalculateBarTips",
+			" \n",
+			"HOURLY",
+			"TIPPED",
+			" \n",
+			";\n",
+			"Nontipped",
+			" \"<",
+			" \n",
+			"/>\n",
+			"');\n",
+			"'));\n",
+			" \n",
+			"TRUE",
+			",\n",
+			"TIPPED_SUPPORT",
+			"'';\n",
+			";}\n",
+			">\n",
+			"caption",
+			"());",
+			"security",
+			"url",
+			"echo",
+			"print_r",
+			"http",
+			"Contact",
+			"e8bf56",
+			"set_post_thumbnail",
+			"h4.blog-author {font-size: 1.1em; color: #7bb0d1;}\n",
+			"last",
+			"p {",
+			"p",
+			"font-family",
+			"recent",
+			"xoxo",
+			"recent",
+			"Recent Posts",
+			"php",
+			"\n$",
+			"}\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "moodflo/config.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 930,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								71,
+								71
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": -0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "moodflo.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 151.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
